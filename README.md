@@ -1,5 +1,7 @@
 # Nithish AI
 
+Link: [https://nithish-ai-frontend-374327023301.northamerica-northeast2.run.app/](URL)
+
 A personal Agentic AI assistant, built incrementally as a learning project.
 
 Planned stack: Python, FastAPI, React, Google Cloud Platform, Gemini (Google Agent Platform), Google Gen AI SDK, Google ADK and/or LangGraph, RAG, embeddings, vector search, Firestore, Cloud Storage, MCP, Docker, and Cloud Run.
